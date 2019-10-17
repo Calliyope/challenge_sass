@@ -1,6 +1,7 @@
 # The Sass Challenge
 
 Made by Erin Joosen
+
 Made for educational purposes
 
 ---

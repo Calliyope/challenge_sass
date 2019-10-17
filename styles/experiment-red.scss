@@ -4,10 +4,10 @@
 
 body {
     font: 100% "Space Mono", monospace;
-    color: #2748B3;
+    color: #a51e1e;
     margin: 0px;
     padding: $red;
-    background-color: #000;
+    background-color: #666363;
     background-image: radial-gradient(#fff, rgba(255, 255, 255, 0.2) 2px, transparent 40px), radial-gradient(#fff, rgba(255, 255, 255, 0.15) 1px, transparent 30px), radial-gradient(#fff, rgba(255, 255, 255, 0.1) 2px, transparent 40px), radial-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.1) 2px, transparent 30px);
     background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px;
     background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
@@ -36,9 +36,9 @@ article {
     }
   
     code {
-      background: #000;
+      background: #666363;
       border: 1px solid #ddd;
-      color: #666;
+      color: #000;
       page-break-inside: avoid;
       font-family: monospace;
       font-size: 15px;
@@ -65,7 +65,7 @@ article {
 h1,
 h2,
 h6 {
-    color: #6B8EFF
+    color: rgb(235, 109, 109)
 }
 
 h1 {
